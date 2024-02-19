@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "medicalepharmacya",
-  "private_key_id": "5ab82d12d7520ae68a0b36c07e6d99a057ec1e37",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc0Jkm+Bo2VFiA\nTdtYA5Y9xlAZSCAXnZHrBxusEW0EdeOJxP4oS2pgxoszJfVkUVnRWmI4jRvGnrRJ\nauXSMf045S7uNn6N1NrB11ezCcLOHGRpUEYfjzWOS5NHYSZbLWZz7viMg2K71UGS\njOwhK+QVd27FjWhYFqApQMyw4jGNUy7Aak3ugnvRlpAi74Wj1JA4D6Gi5li8a0w3\nJrHjv8LevIxqfrbUspyE8tUBOLKukFXhMW8xNTftzXUomLyFbIMwO0g7muDggN7f\n/JNvBEfJoFhCs2F7y4MILv1PzKJCv7bZRdbF/Xxc2GVmAJjeHMLr7BT2UcAllGZ0\nqHeFW3FnAgMBAAECggEAVg8egWeUn7QDwg2V/Rl4xp6xvQi1KT8KDbV5fXhVKrXf\ndmRGQeISlaELw2V53B0wij1VpoCoYKKd1TdKVr+Q10nLHqAydoiMsZuB3I9jUv0R\nzVGx4r7nuouN3PXqAwMQuQJb8DeMlXQp2DoAFXWLsSoZC/luv1YiGbHdlNqzQUZ+\nx1Sr6X6YN2q7xgJiDR4W5peLEPftK9zB7WJKu48f+rwmmGy/n/OLkB7G2tkWFNlV\noQKHxawCIH5Q0C25aQEgJu4PKqHKNkyVdSyu+943FFIeuGX14l0YuTvxnjlkuet0\nZkKrqyQfaXPKec0b0gABM0RIxjBOSx/d1SgPtgXQIQKBgQDybnAAI+26T1Dl4gMR\n/p1L3+mQo8dVERwPJBwtPzI0Vq24NEQp7G5dmVwir+LvyySevS3/TffXeKMbIPi6\nTQ1BLNRl8ZWgNIEfmNSScQ3Y79b6aSakLCUO6GZIMHFviB/VOlWn5yDxU3u6G2Yj\nkuYMOWEnbrJwc2oAUIIcoGKAzwKBgQDpLHAtsmvYmeBIkJpD0m/a4OoDhVr4AT60\nBb+v+4Lq0mzUIDm1QG9EovXxTd4kFtfV6C0fqfPAgqGrP7Trj8PGJvC3GrlKxhw2\nz6oEUGW8V0dm2FH2qGbHSg2YVejjwcdoXnYglH6+vOqxDG04LywEdf2bdYfQMVoo\nWdpBA9O76QKBgBXCJ7c7gkioecBIKrJgwclfjVz39hoCcRxCx2ygMWdVKD5SIpQI\nrlckPoq2co3HE8BThl9VphrmruzuZqSB6eChn2aO6jj4vWYSl3GVSALic88BxQAT\nHjhaT2PHRUcXVpQSqkFpkyFVttMbRm2G77LFK50YaFeDZE4m66aaFn0tAoGBANPA\nY29cZMwjkabUiwOki6f+MQZZiK9IkiTyQ44RnmaaCfLqAP41MdbnFuq4iE/F3uSH\nINNsh8v/1cmq5SY3PNcqbdgbEMJy/xRXqlKYoItVx6YCNQ0HCa9Z9Nauzfxn8is5\n/ZTAxgl5jriSTG2FiTfT3yfaqCfNac7TKn14eERhAoGBAM1U1BfsqmiQzp+8Bdf1\nqo8x2RIZUafNKGzLB4WGsDY6/QV3Up3tjLeZw5zqskC87Zx5gtq6NWz9UGoT+Acj\nt8kwV3XKSBPu6Yof1oQdpt0xsZQCz/VcC60evsK9frb7beIi84dkXDqONiQH0/ep\ne/8vsDk0OmuG8u1iugXfj9dY\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-77vxv@medicalepharmacya.iam.gserviceaccount.com",
-  "client_id": "101569470010564814985",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-77vxv%40medicalepharmacya.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+for creds access, please email a request to youssifsamir2682001@gmail.com
