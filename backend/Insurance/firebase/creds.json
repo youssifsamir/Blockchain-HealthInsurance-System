@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medicaleinsurance",
+  "private_key_id": "6e2ba5634958995c3998d96227442dbbc822725d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD0log+pSbSVVCY\nRrfiHeqmwr+6kCnIGpPjD+Cp9b2B3HeyaCWYlqhi01aznaDY1fF+IZMEnh5XhlOK\nV+H7qCWs65Ky6IhoMdfUga9qtiUclODj9o/zg7e4clcEPRCCFEvArtV1vbxLphl+\ne162i8HTkXxN9gIEm2846cpQExrS5LpQK7P57DrndLFr4hvnUD5UCDq4rm3WU7ri\n9H3Ki+HyWpCm6EGURa+9pbZoexmjTwKf9E/2kGH3mjG5v02eGXOSPn+n7arLXTFv\nX8/pfxdzGE+qwQgQaEJEpZtK+37Zpt0jAdo7ygDOVhOYW1mRE+fG5K+Wby/2UDEC\nOT2e+rlLAgMBAAECggEACLStwpkRrpPl0f28zToZk5HEARZ6vj1TI6Msva/z0yiV\nqoGySnucuiPIM416EuD0/w0GSB6x35V2HMSWOrH+x7UwDz+SnchqyvNKWwbpTEEK\nV8lIN2rQgiqwgtCcaVAV02GfUtkL8WwtZSCfO7a+xLj3Ds+7I6g94O2e/pNBHBEa\n6IU/U8xh0upV5gNB5d8pMvymMOw0AsZSpEW5FPsz9ywBFn8+97CRQwDZKJzhvnMN\nnTZaPm20O3bzsYx/D7G2pDna5AJw7Ist+S+F5fduLpJxjWszwLYFxuEOayk4a2ir\n2rLogrW34ddTyuZuZ0Im0aeApUR6jFmvssOg+9A6fQKBgQD/qiLXW8ZpS3Y5puFf\neirZ4U+tOP8KteGDQWq+2MwqQIwRPODAF9H5Pxq4WcrhSnGmo/HDmfk3HhWBO1Eu\nCf0Gb4PFKNsMneowxJgpYUrS8JM+xihwmGsyKiGJ5NhIRYR4eoql0geA4xJK7Rt6\ngmHAi+fz5C05mGQQD3DlStvU3QKBgQD06K0T26AVDB+9oJg5wDoSRDpfFIJ57ErG\nA3Si2XE2ZZe6lomtWNBzskDU3+wGPtsMNxmOMk0Egi+LKKqRvEIY9/ZnzuAIfQCX\nsJMjxevMXJyD/yXsV+QekVI48ubpNLOv+owe9MfHfNE6s3SrNycLTMY+yfWwQlnS\n07YI00pwRwKBgQCR+GfQIdwUvjsQC5Hd23if0Z6WPlaPnOzW7gCuWkWnUhcmuGVy\nB6eg8UCmRM4q90AQbsZYcY7yw0Bv+pgM+zL1+7F2Xi9C8t6FXZmq9pur+CN50dXB\nA6UgjSF9A6XhDZ/m0cBbkKEsG3mUQfBQcCSztK2IeJzBp5pp+QbyQ11kGQKBgQDq\ne5eyqpWzcR82tHrq2CQBdzeX7xAZYeYZfhd/D8c4OL6z1AvPX3h9PU6bQiU9uZKK\nOHsMTRa2WVrh1rawv9ldBJPzwft3xQ77LQFDv+zKhmUIcBLEHUZ5CdP6WH5DC8V6\nmNztipl4YwYEOOtcPnrwc7pfRYgpEO3lT/Q6sOnVYwKBgQD2WDT7x/p3gESGSJEI\nTTple0XWDHHq6QAFKwy1hk/4Kt1GHuvft28iQhp5xlBrKsfiirrddwAov7MicYQ5\nKMKP530oipwb4uhnOdmt93dc6oyzXtxl2dvaDv0oy2OYCuUqJP9YMY3BesbZsnq1\niPaxdtC18a0txA3MtOvTo7N6bg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xjxip@medicaleinsurance.iam.gserviceaccount.com",
+  "client_id": "115781967940857399162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xjxip%40medicaleinsurance.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

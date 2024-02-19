@@ -1,0 +1,23 @@
+{
+  "name": "medo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.5.2",
+    "express": "^4.18.2",
+    "firebase": "^10.7.0",
+    "firebase-admin": "^11.11.1",
+    "sol": "^0.3.0",
+    "solc": "^0.8.23-fixed",
+    "web3": "^4.2.2"
+  }
+}
