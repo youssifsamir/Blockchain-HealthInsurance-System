@@ -13,6 +13,7 @@ I've built a secure and efficient platform to streamline interactions between in
 
 By integrating the technologies used bellow, this project ensures:
   - A mobile-friendly user interface.
+  - Smart contracts deployment on Ethereum blockchain network.
   - Streamlined medical insurance claiming process.
   - Utilization of Ethereum blockchain for enhanced security and transparency.
   - Exploration of blockchain oracle technology to address heterogeneity issues.
