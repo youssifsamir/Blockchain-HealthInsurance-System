@@ -2,6 +2,7 @@
 
 A college graduation project that aims to revolutionize healthcare insurance processes by leveraging blockchain technology, smart contracts, and modern web and mobile development tools.</br>
 I've built a secure and efficient platform to streamline interactions between insurance providers, healthcare facilities, pharmacies, and patients.
+By incorporating blockchain technology, I seek to improve the security and transparency of medical insurance claims.
 
 
 # 🔥 Quick Preview
@@ -18,7 +19,6 @@ By integrating the technologies used bellow, this project ensures:
   - Utilization of Ethereum blockchain for enhanced security and transparency.
   - Exploration of blockchain oracle technology to address heterogeneity issues.
     
-By incorporating blockchain technology, I seek to improve the security and transparency of medical insurance claims.</br>
 The utilization of Ethereum allows for a decentralized and tamper-resistant system. Additionally, the project explores blockchain oracle technology to address the heterogeneity issue in blockchain communication. This aspect is crucial for ensuring interoperability and seamless communication between different components within the blockchain network.
 
 
