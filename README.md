@@ -7,7 +7,7 @@ By incorporating blockchain technology, I seek to improve the security and trans
 
 # 🔥 Quick Preview
 
-[![Watch the video](https://github.com/youssifsamir/Blockchain-HealthInsurance-System/assets/113045942/a4ca8687-e162-4c5c-8200-c9ae8228c91a)](https://streamable.com/jm16z8)
+[![Watch the video](https://github.com/youssifsamir/Blockchain-HealthInsurance-System/assets/113045942/a4ca8687-e162-4c5c-8200-c9ae8228c91a)](https://vimeo.com/915053947?share=copy)
 
 
 ## Overview
